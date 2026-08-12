@@ -28,6 +28,9 @@ artisphere-mern/
 └── .env.example
 ```
 
+##Project Review
+![images](/images/landingpage)
+
 ## Getting Started
 
 ### Prerequisites
