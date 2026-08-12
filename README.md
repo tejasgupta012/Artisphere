@@ -30,6 +30,9 @@ artisphere-mern/
 
 ##Project Review
 ![images](https://github.com/tejasgupta012/Artisphere/blob/main/images/landing%20page.png?raw=true)
+![image](https://github.com/tejasgupta012/Artisphere/blob/main/images/Explore%20Paints.png?raw=true)
+![image](https://github.com/tejasgupta012/Artisphere/blob/main/images/artist's%20page.png?raw=true)
+![image](https://github.com/tejasgupta012/Artisphere/blob/main/images/Join%20the%20Circle.png?raw=true)
 
 ## Getting Started
 
