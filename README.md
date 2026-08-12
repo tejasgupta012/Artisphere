@@ -29,7 +29,7 @@ artisphere-mern/
 ```
 
 ##Project Review
-![images](images/landing page.png)
+![images](https://github.com/tejasgupta012/Artisphere/blob/main/images/landing%20page.png?raw=true)
 
 ## Getting Started
 
