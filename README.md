@@ -29,7 +29,7 @@ artisphere-mern/
 ```
 
 ##Project Review
-![images](/images/landingpage)
+![images](images/landingpage)
 
 ## Getting Started
 
